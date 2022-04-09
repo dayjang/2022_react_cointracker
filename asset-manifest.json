@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/2022_react_cointracker/static/js/main.ad7683ae.js",
+    "main.js": "/2022_react_cointracker/static/js/main.b4f0f28f.js",
     "index.html": "/2022_react_cointracker/index.html",
-    "main.ad7683ae.js.map": "/2022_react_cointracker/static/js/main.ad7683ae.js.map"
+    "main.b4f0f28f.js.map": "/2022_react_cointracker/static/js/main.b4f0f28f.js.map"
   },
   "entrypoints": [
-    "static/js/main.ad7683ae.js"
+    "static/js/main.b4f0f28f.js"
   ]
 }
